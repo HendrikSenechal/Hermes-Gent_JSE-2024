@@ -43,6 +43,5 @@ public class JseApplication {
 				break;
 			}
 		} while (choice != "1" && choice != "2");
-
 	}
 }
